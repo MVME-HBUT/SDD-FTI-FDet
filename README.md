@@ -32,7 +32,6 @@ cd SDD-FTI-FDet
 ```
 conda create -n SDD python=3.7 -y
 conda activate SDD
-pip3 install -r requirements.txt
 ```
 4、Other requirements
 ```
